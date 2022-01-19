@@ -1,6 +1,7 @@
 # NamesOfAllah
 
 Privacy policy
+
 Welcome to the Names of Allah app for Android!
 
 This is a free Android app, with no advertisements, developed by Shaheed Mahomed. 
